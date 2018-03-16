@@ -1,0 +1,27 @@
+tbody{
+    border-color: black;
+    border-style: solid;
+    background-color: #9DBCF6;
+    color: black;
+    /*padding: 10px;*/
+}
+
+td{
+    padding: 20px 20px 20px 20px;
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+tr:hover{
+    background-color: orange;
+}
+
+thead{
+    font-weight: bold;
+    font-family: georgia;
+    background-color: #8FDC35;
+    color: black;
+}
+thead tr:hover{
+    background-color: #dc143c;
+}
